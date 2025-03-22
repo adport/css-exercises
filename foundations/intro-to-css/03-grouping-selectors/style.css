@@ -1,0 +1,14 @@
+.bs1,
+.bs2 {
+font-family: Helvetica, 'Times New Roman', sans-serif;
+font-size: 28px;
+}
+
+.bs1 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.bs2 {
+    background-color: rgb(255, 255, 0);
+}
